@@ -1,0 +1,18 @@
+A sorting algorithm is said to be stable if two objects with equal 
+keys apear in the same order in sorted output as they appear in the 
+input array to be sorted. Stability doesn't matter when equal elements 
+are indistinguishable, such as premitive datatype (integeter), or 
+entire object is the key.
+
+Stable Sorting Algorithm:
+-Bubble Sort 
+-Insertion Sort 
+-Merge Sort 
+-Counting Sort
+-Tim Sort 
+
+Unstable Sorting Algorithm: 
+-Selection Sort 
+-Quick Sort 
+-Heap Sort 
+
