@@ -8,4 +8,6 @@ In this repository, you will find the collection of most commonly discussed sort
 4. Merge Sort
 5. Quick Sort
 6. Heap Sort
- 
+7. Bucket Sort
+8. Counting Sort
+9. Radix Sort 
